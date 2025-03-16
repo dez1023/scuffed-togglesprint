@@ -1,4 +1,4 @@
-# scuffed toggle sprint
+## scuffed toggle sprint
 
 #### use with urun
 just paste the code
@@ -9,4 +9,5 @@ add javascript: to front idk i havent tested
 #### i cnat do any of the above
 add it to the body of your eagler html
 
+#### note
 toggling this on will make the r key type twice, turn it off before chatting.
