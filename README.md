@@ -10,5 +10,5 @@ paste [code](https://github.com/dez1023/scuffed-togglesprint/blob/main/togglespr
 add the [code](https://github.com/dez1023/scuffed-togglesprint/blob/main/togglesprint.js) as a script to the \<head> of your eagler html
 
 #### note
-toggling this on will make the r key type twice, turn it off before chatting
+toggling this on will make the r key type twice, turn it off before chatting\
 dont complain
