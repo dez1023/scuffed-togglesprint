@@ -1,4 +1,4 @@
-## scuffed toggle sprint
+## scuffed toggle sprint (use pixel client instead)
 
 ### methods:
 
